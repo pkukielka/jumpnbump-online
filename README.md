@@ -1,4 +1,7 @@
-Jump n Bump
+Jump n Bump (fork)
+====================
+
+For the original source code please follow (http://git.icculus.org/?p=crow/jumpnbump.git) or (https://icculus.org/jumpnbump/) 
 
 This is a game for the whole family. You are cute fluffy little bunnies
 and hop on the other bunnies' heads.
